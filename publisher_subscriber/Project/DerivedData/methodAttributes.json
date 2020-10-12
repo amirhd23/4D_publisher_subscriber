@@ -1,0 +1,22 @@
+﻿{
+	"methods": {
+		"clearLogs": {
+			"timeStamp": "2020-10-12T23:15:13.327Z"
+		},
+		"Compiler_Methods": {
+			"timeStamp": "2020-10-12T23:06:17.095Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"logInfo": {
+			"timeStamp": "2020-10-12T22:37:10.166Z"
+		},
+		"main": {
+			"timeStamp": "2020-10-12T23:21:17.771Z"
+		},
+		"test": {
+			"timeStamp": "2020-10-12T23:14:51.488Z"
+		}
+	}
+}

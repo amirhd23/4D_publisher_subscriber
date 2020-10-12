@@ -1,0 +1,62 @@
+﻿{
+	"Sources/Classes/Broker.4dm": {
+		"left": -40,
+		"top": 332,
+		"width": 2544,
+		"height": 1283
+	},
+	"Sources/Classes/HashCalculator.4dm": {
+		"left": 2,
+		"top": 196,
+		"width": 2544,
+		"height": 1283
+	},
+	"Sources/Classes/Message.4dm": {
+		"left": 0,
+		"top": 109,
+		"width": 2544,
+		"height": 1283
+	},
+	"Sources/Classes/HashMap.4dm": {
+		"left": -231,
+		"top": 427,
+		"width": 2544,
+		"height": 1358
+	},
+	"Sources/Classes/Subscriber.4dm": {
+		"left": -360,
+		"top": 716,
+		"width": 2544,
+		"height": 1283
+	},
+	"Sources/Classes/Publisher.4dm": {
+		"left": -389,
+		"top": 365,
+		"width": 2544,
+		"height": 1283
+	},
+	"Sources/Methods/main.4dm": {
+		"left": -559,
+		"top": 519,
+		"width": 2544,
+		"height": 1283
+	},
+	"Sources/Methods/logInfo.4dm": {
+		"left": -434,
+		"top": 732,
+		"width": 2544,
+		"height": 1283
+	},
+	"Sources/Methods/test.4dm": {
+		"left": -342,
+		"top": 890,
+		"width": 2544,
+		"height": 1283
+	},
+	"Sources/Methods/clearLogs.4dm": {
+		"left": -247,
+		"top": 664,
+		"width": 2544,
+		"height": 1283
+	}
+}
