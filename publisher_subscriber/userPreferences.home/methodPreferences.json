@@ -1,12 +1,12 @@
 ﻿{
 	"Sources/Classes/Broker.4dm": {
-		"startSelection": 13,
-		"endSelection": 13,
-		"firstSelectedLine": 13,
-		"lastSelectedLine": 13,
+		"startSelection": 26,
+		"endSelection": 26,
+		"firstSelectedLine": 14,
+		"lastSelectedLine": 14,
 		"folding": [],
 		"bookmarks": [],
-		"stamp": "2020-10-12T23:24:37.494Z"
+		"stamp": "2020-10-19T01:04:09.173Z"
 	},
 	"Sources/Classes/HashCalculator.4dm": {
 		"startSelection": 0,
@@ -18,13 +18,13 @@
 		"stamp": "2020-08-17T02:00:33.439Z"
 	},
 	"Sources/Classes/Message.4dm": {
-		"startSelection": 28,
-		"endSelection": 28,
-		"firstSelectedLine": 5,
-		"lastSelectedLine": 5,
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 8,
+		"lastSelectedLine": 8,
 		"folding": [],
 		"bookmarks": [],
-		"stamp": "2020-10-12T21:42:29.242Z"
+		"stamp": "2020-10-19T00:20:08.446Z"
 	},
 	"Sources/Classes/HashMap.4dm": {
 		"startSelection": 20,
@@ -36,13 +36,13 @@
 		"stamp": "2020-08-17T02:16:45.742Z"
 	},
 	"Sources/Classes/Subscriber.4dm": {
-		"startSelection": 18,
-		"endSelection": 18,
-		"firstSelectedLine": 12,
-		"lastSelectedLine": 12,
+		"startSelection": 11,
+		"endSelection": 11,
+		"firstSelectedLine": 15,
+		"lastSelectedLine": 15,
 		"folding": [],
 		"bookmarks": [],
-		"stamp": "2020-10-12T23:00:56.942Z"
+		"stamp": "2020-10-18T23:17:25.984Z"
 	},
 	"Sources/Classes/Publisher.4dm": {
 		"startSelection": 0,
@@ -54,13 +54,13 @@
 		"stamp": "2020-10-12T22:13:43.973Z"
 	},
 	"Sources/Methods/main.4dm": {
-		"startSelection": 12,
-		"endSelection": 12,
-		"firstSelectedLine": 28,
-		"lastSelectedLine": 28,
+		"startSelection": 11,
+		"endSelection": 11,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 4,
 		"folding": [],
 		"bookmarks": [],
-		"stamp": "2020-10-12T23:21:17.771Z"
+		"stamp": "2020-10-19T01:06:48.419Z"
 	},
 	"Sources/Methods/logInfo.4dm": {
 		"startSelection": 11,
@@ -72,21 +72,30 @@
 		"stamp": "2020-10-12T22:37:10.166Z"
 	},
 	"Sources/Methods/test.4dm": {
+		"startSelection": 28,
+		"endSelection": 28,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 4,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-10-19T01:05:37.878Z"
+	},
+	"Sources/Methods/runBrokerLoop.4dm": {
 		"startSelection": 0,
 		"endSelection": 0,
+		"firstSelectedLine": 23,
+		"lastSelectedLine": 23,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-10-19T01:11:25.042Z"
+	},
+	"Sources/Methods/clearAllRecords.4dm": {
+		"startSelection": 24,
+		"endSelection": 24,
 		"firstSelectedLine": 2,
 		"lastSelectedLine": 2,
 		"folding": [],
 		"bookmarks": [],
-		"stamp": "2020-10-12T23:14:51.488Z"
-	},
-	"Sources/Methods/clearLogs.4dm": {
-		"startSelection": 12,
-		"endSelection": 12,
-		"firstSelectedLine": 0,
-		"lastSelectedLine": 0,
-		"folding": [],
-		"bookmarks": [],
-		"stamp": "2020-10-12T23:15:13.327Z"
+		"stamp": "2020-10-18T23:40:05.734Z"
 	}
 }

@@ -1,7 +1,7 @@
 ﻿{
 	"methods": {
-		"clearLogs": {
-			"timeStamp": "2020-10-12T23:15:13.327Z"
+		"clearAllRecords": {
+			"timeStamp": "2020-10-18T23:40:05.734Z"
 		},
 		"Compiler_Methods": {
 			"timeStamp": "2020-10-12T23:06:17.095Z",
@@ -13,10 +13,13 @@
 			"timeStamp": "2020-10-12T22:37:10.166Z"
 		},
 		"main": {
-			"timeStamp": "2020-10-12T23:21:17.771Z"
+			"timeStamp": "2020-10-19T00:49:54.075Z"
+		},
+		"runBrokerLoop": {
+			"timeStamp": "2020-10-19T00:52:06.984Z"
 		},
 		"test": {
-			"timeStamp": "2020-10-12T23:14:51.488Z"
+			"timeStamp": "2020-10-19T00:31:22.410Z"
 		}
 	}
 }

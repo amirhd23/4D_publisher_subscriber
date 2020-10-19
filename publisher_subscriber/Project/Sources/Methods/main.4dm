@@ -1,7 +1,9 @@
 //%attributes = {}
+clearAllRecords
 logInfo("Starting Message Broker Service")
 var $broker : cs:C1710.Broker
 $broker:=cs:C1710.Broker.new()
+$broker.start()
 
 var $sub_1,$sub_2,$sub_3 : cs:C1710.Subscriber
 var $pub_1,$pub_2 : cs:C1710.Publisher
@@ -29,4 +31,11 @@ $pub_2.publish(cs:C1710.Message.new("Entertainment";"Message 5"))
 //sub_2 : m1, m2, m3, m4
 //sub_3 : m5
 
-$broker.runLoop()
+var $startTime : Time
+$startTime:=Current time:C178
+While (Time:C179(Timestamp:C1445)-$startTime<Time:C179("00:00:3"))
+	
+End while 
+$broker.stop()
+
+

@@ -1,7 +1,7 @@
 ﻿{
 	"Sources/Classes/Broker.4dm": {
-		"left": -40,
-		"top": 332,
+		"left": -171,
+		"top": 359,
 		"width": 2544,
 		"height": 1283
 	},
@@ -12,8 +12,8 @@
 		"height": 1283
 	},
 	"Sources/Classes/Message.4dm": {
-		"left": 0,
-		"top": 109,
+		"left": -290,
+		"top": 502,
 		"width": 2544,
 		"height": 1283
 	},
@@ -24,22 +24,22 @@
 		"height": 1358
 	},
 	"Sources/Classes/Subscriber.4dm": {
-		"left": -360,
-		"top": 716,
+		"left": -153,
+		"top": 359,
 		"width": 2544,
 		"height": 1283
 	},
 	"Sources/Classes/Publisher.4dm": {
-		"left": -389,
-		"top": 365,
+		"left": -60,
+		"top": 339,
 		"width": 2544,
 		"height": 1283
 	},
 	"Sources/Methods/main.4dm": {
-		"left": -559,
-		"top": 519,
+		"left": -643,
+		"top": 290,
 		"width": 2544,
-		"height": 1283
+		"height": 1401
 	},
 	"Sources/Methods/logInfo.4dm": {
 		"left": -434,
@@ -48,14 +48,20 @@
 		"height": 1283
 	},
 	"Sources/Methods/test.4dm": {
-		"left": -342,
-		"top": 890,
+		"left": -155,
+		"top": 634,
+		"width": 2544,
+		"height": 1273
+	},
+	"Sources/Methods/runBrokerLoop.4dm": {
+		"left": -353,
+		"top": 327,
 		"width": 2544,
 		"height": 1283
 	},
-	"Sources/Methods/clearLogs.4dm": {
-		"left": -247,
-		"top": 664,
+	"Sources/Methods/clearAllRecords.4dm": {
+		"left": -821,
+		"top": 762,
 		"width": 2544,
 		"height": 1283
 	}
