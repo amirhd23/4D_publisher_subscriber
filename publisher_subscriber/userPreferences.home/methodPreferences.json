@@ -1,9 +1,9 @@
 ﻿{
 	"Sources/Classes/Broker.4dm": {
-		"startSelection": 26,
-		"endSelection": 26,
-		"firstSelectedLine": 14,
-		"lastSelectedLine": 14,
+		"startSelection": 36,
+		"endSelection": 36,
+		"firstSelectedLine": 44,
+		"lastSelectedLine": 44,
 		"folding": [],
 		"bookmarks": [],
 		"stamp": "2020-10-19T01:04:09.173Z"
@@ -54,13 +54,13 @@
 		"stamp": "2020-10-12T22:13:43.973Z"
 	},
 	"Sources/Methods/main.4dm": {
-		"startSelection": 11,
-		"endSelection": 11,
-		"firstSelectedLine": 4,
-		"lastSelectedLine": 4,
+		"startSelection": 16,
+		"endSelection": 16,
+		"firstSelectedLine": 37,
+		"lastSelectedLine": 37,
 		"folding": [],
 		"bookmarks": [],
-		"stamp": "2020-10-19T01:06:48.419Z"
+		"stamp": "2020-10-20T19:37:35.298Z"
 	},
 	"Sources/Methods/logInfo.4dm": {
 		"startSelection": 11,
@@ -81,10 +81,10 @@
 		"stamp": "2020-10-19T01:05:37.878Z"
 	},
 	"Sources/Methods/runBrokerLoop.4dm": {
-		"startSelection": 0,
-		"endSelection": 0,
-		"firstSelectedLine": 23,
-		"lastSelectedLine": 23,
+		"startSelection": 13,
+		"endSelection": 35,
+		"firstSelectedLine": 9,
+		"lastSelectedLine": 9,
 		"folding": [],
 		"bookmarks": [],
 		"stamp": "2020-10-19T01:11:25.042Z"

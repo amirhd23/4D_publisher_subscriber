@@ -1,7 +1,7 @@
 ﻿{
 	"Sources/Classes/Broker.4dm": {
-		"left": -171,
-		"top": 359,
+		"left": 413,
+		"top": 225,
 		"width": 2544,
 		"height": 1283
 	},
@@ -36,8 +36,8 @@
 		"height": 1283
 	},
 	"Sources/Methods/main.4dm": {
-		"left": -643,
-		"top": 290,
+		"left": 540,
+		"top": 468,
 		"width": 2544,
 		"height": 1401
 	},
@@ -48,14 +48,14 @@
 		"height": 1283
 	},
 	"Sources/Methods/test.4dm": {
-		"left": -155,
-		"top": 634,
+		"left": 527,
+		"top": 987,
 		"width": 2544,
 		"height": 1273
 	},
 	"Sources/Methods/runBrokerLoop.4dm": {
-		"left": -353,
-		"top": 327,
+		"left": 1000,
+		"top": 123,
 		"width": 2544,
 		"height": 1283
 	},

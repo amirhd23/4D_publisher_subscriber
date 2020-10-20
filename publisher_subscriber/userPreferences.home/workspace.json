@@ -1,3 +1,40 @@
 ﻿{
-	"editors": []
+	"editors": [
+		{
+			"type": "method",
+			"id": 2147483644,
+			"codeDescriptor": {
+				"type": 1,
+				"methodName": "main"
+			}
+		},
+		{
+			"type": "method",
+			"id": 2147483643,
+			"codeDescriptor": {
+				"type": 1,
+				"methodName": "runBrokerLoop"
+			}
+		},
+		{
+			"type": "method",
+			"id": 2147483641,
+			"codeDescriptor": {
+				"type": 11,
+				"className": "Broker",
+				"methodPath": "/SOURCES/Classes/Broker.4dm"
+			}
+		},
+		{
+			"type": "explorer"
+		},
+		{
+			"type": "method",
+			"id": 2147483642,
+			"codeDescriptor": {
+				"type": 1,
+				"methodName": "test"
+			}
+		}
+	]
 }

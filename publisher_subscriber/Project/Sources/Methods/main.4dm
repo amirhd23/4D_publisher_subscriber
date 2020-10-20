@@ -31,6 +31,14 @@ $pub_2.publish(cs:C1710.Message.new("Entertainment";"Message 5"))
 //sub_2 : m1, m2, m3, m4
 //sub_3 : m5
 
+//TODO:DELAY PROCESS
+//serialize objects into storage
+//json stringify object 
+//object with formula into storage.
+//Formula: pass 4D commands, it can be stored in prop of object
+//or 4D eval tag
+
+
 var $startTime : Time
 $startTime:=Current time:C178
 While (Time:C179(Timestamp:C1445)-$startTime<Time:C179("00:00:3"))
